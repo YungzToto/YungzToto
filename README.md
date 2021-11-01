@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @YungzToto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#Enjoy my MadLibs Game!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+adj = input("Enter an adjective: ")
+plural_noun = input("Enter a plural noun: ")
+article_clothing = input("Enter an article of clothing: ")
+noun = input("Enter a noun: ")
+city = input("Enter a city: ")
+celebrity = input("Enter the name of a celebrity: ")
+body = input("Enter a part of the body: ")
+verb = input("Enter a verb")
 
-<!---
-YungzToto/YungzToto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+print("***************************************************************")
+
+print("There are many " + adj + " ways to choose a book to read.")
+print("You can ask for a recommendation from your " + plural_noun + " to come to the movies with us.")
+print("You can only wear a " + article_clothing + " to the movies.")
+print("If your friends are no help, go get yourself a " + noun)
+print("After that, I think that you should travel to " + city)
+print("I hope that you meet " + celebrity + " while you're there.")
+print("Whilst you travel, you'd better hope that your jeans don't get caught in your " + body)
+print("When you come back, make sure that you go on the internet to " + verb + " for books.") 
